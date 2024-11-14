@@ -1,15 +1,17 @@
-{
-  "DataTemplate": [
-    "Multipliers": [
-      "Strength": 1,
-      "Endurance": 1,
-      "Speed": 1,
-      "Agility": 1,
-      "Psychic": 1
-    ]
-  ],
+[
+  {
+    "DataTemplate": [
+      "Multipliers": [
+        "Strength": 1,
+        "Endurance": 1,
+        "Speed": 1,
+        "Agility": 1,
+        "Psychic": 1
+      ]
+    ],
   
-  "Gamepasses": {
+    "Gamepasses": {
 
+    }
   }
-}
+]
